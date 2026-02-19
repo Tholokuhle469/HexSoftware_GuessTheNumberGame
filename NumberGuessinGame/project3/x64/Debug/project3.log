@@ -1,0 +1,3 @@
+﻿  project3.cpp
+C:\Users\Student\source\repos\NumberGuessinGame\project3\project3.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  project3.vcxproj -> C:\Users\Student\source\repos\NumberGuessinGame\x64\Debug\project3.exe
